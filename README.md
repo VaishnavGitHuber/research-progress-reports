@@ -8,11 +8,11 @@ This repository contains all the files and resources required for conducting res
 
 ### Results
 
-| Strategy | Accuracy |
-|--------|----------|
-| No Chain-of-Thought (NoCoT) | **54%** |
-| Chain-of-Thought (CoT) | 52% |
-| Divide & Conquer | 52% |
+| Strategy | Execution Accuracy | Validation Accuracy |
+|--------|----------|--------------|
+| No Chain-of-Thought (NoCoT) | **54%** | **98**|
+| Chain-of-Thought (CoT) | 52% |**98**|
+| Divide & Conquer | 52% |**98**|
 
 ### Observations
 
